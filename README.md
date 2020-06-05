@@ -23,7 +23,6 @@ Discrete CMAC - generalization factor = 10
 Continuous CMAC - generalization factor = 10
 ![alt text](./images/c_cmac_10.PNG?raw=true "Continuous CMAC")
 
-![alt text](./images/astar.gif?raw=true "Continuous CMAC")
 
 
 
