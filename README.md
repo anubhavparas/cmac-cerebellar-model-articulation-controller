@@ -2,7 +2,7 @@
 
 ## This is to program and train a 1-D discrete and continuous CMAC network.
 - Effect of overlap area on generalization and time to convergence was explored.
-- 35 weights were used for the CMAC network and the function was samples at 100 evenly spaced points.
+- 35 weights were used for the CMAC network and the function was sampled at 100 evenly spaced points.
 
 #### Information to run the code 
 - In the terminal where you can run python scripts go to the directory where these files are,
